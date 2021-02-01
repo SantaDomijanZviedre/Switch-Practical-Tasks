@@ -4,7 +4,7 @@ import org.w3c.dom.ls.LSOutput;
 
 import java.util.Scanner;
 
-public class Main {
+public class practicalTask1_1_2_5 {
 
     public static void main(String[] args) {
         practicalTaskNo1(32, -368);
@@ -66,23 +66,7 @@ public class Main {
         }
     }
 
-        static void practicalTaskNo4_Alternative() {
-
-       /* First I need to study more Methods and then I can continue with this.
-
-       Scanner input = new Scanner(System.in);
-        System.out.println("Please enter the month");
-        int month = input.nextInt();
-        System.out.println("Please enter the year");
-        int year = input.nextInt();
-
-        String numberOfDaysInMonth = input.nextLine();
-        if(daysInYear - sumDays <= 0) {
-
-        }*/
-        }
-
-        static void practicalTaskNo5() {
+    static void practicalTaskNo5() {
 
             Scanner input = new Scanner(System.in);
             System.out.println("Please enter how many hours did you work today:");

@@ -1,6 +1,6 @@
 package com.company;
 
-public class practicalTask6 {
+public class practicalTask1_6 {
 
     public static void main(String[] args) {
         displayHighScorePosition("Santa", calculateHighScorePosition(1500));

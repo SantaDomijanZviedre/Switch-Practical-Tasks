@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.Scanner;
 
-public class practicalTask4 {
+public class practicalTask1_4 {
 
         public static void main(String[] args) {
 
@@ -43,8 +43,7 @@ public class practicalTask4 {
             System.out.println("The day number is: " + dayNumber + "\nIt is: November");
         } else if (daysInYear - dayNumber >= 1) {
             System.out.println("The day number is: " + dayNumber + "\nIt is: December");
-        }   // I am sure this can be written 10X shorter with some smart function from links that you sent :),
-        // but for now this works :)
+        }
     }
 
 }
